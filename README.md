@@ -1,4 +1,4 @@
-# Credit-Risk-Resamplinacg - Machine Learning Homework
+# Credit-Risk-Resampling - Machine Learning Homework
 
 Of the three aproaches, the oversampling models had the highest balanced accuracy scores, with naive oversampling the highest at 0.63.
 In terms of recall, again, oversampling had the highest scores - this time SMOTE the highest with 0.67.
